@@ -15,7 +15,6 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    
     <td width="45%" valign="top" align="center">
       <h3>Technology Stack 🦅</h3>
       <p align="center">
@@ -34,14 +33,12 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </p>
     </td>
-
     <td width="55%" valign="top" align="center">
       <h3>Yearly Contributions 📈</h3>
       <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaweshKumar&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Aawesh's Contribution Graph" width="100%" />
       </p>
     </td>
-
   </tr>
 </table>
 ---
