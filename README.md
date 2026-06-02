@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Aawesh%20Kumar&subtitle=A%20Web%20Developer%20in%20the%20making&fontSize=40&animation=fadeIn" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaweshKumar&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Views" />
-</p>
-
 ---
 
 <p align="center">
