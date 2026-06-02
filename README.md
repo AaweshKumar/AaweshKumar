@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
+  <img src="Banner.png" alt="Aawesh Kumar Banner" width="100%" />
 </p>
-
 ---
 
 <p align="center">
