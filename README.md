@@ -29,11 +29,10 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </p>
-    </td>
     <td width="55%" valign="top" align="center">
-      <h3>Contributions 📈</h3>
+      <h3>Recent Activity 🔥</h3>
       <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaweshKumar&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Aawesh's Contribution Graph" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaweshKumar&theme=tokyonight&background=0d1117&hide_border=true" alt="Aawesh's Coding Streak" width="100%" />
       </p>
     </td>
   </tr>
