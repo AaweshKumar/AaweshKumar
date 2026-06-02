@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Aawesh%20Kumar&subtitle=A%20Web%20Developer%20in%20the%20making&fontSize=40&animation=fadeIn" alt="Banner" />
+  <img src="banner.png" alt="Aawesh Kumar Banner" width="100%" />
 </p>
 
 ---
