@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">Technology Stack 🦅</h2>
+<h2 align="center">Tech Stack 🦅</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -35,13 +35,6 @@
 
 ---
 
-<h2 align="center">My GitHub Stats 📈</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaweshKumar&show_icons=true&theme=radical&rank_icon=github" alt="Aawesh's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaweshKumar&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaweshKumar&theme=radical" alt="GitHub Streak" />
