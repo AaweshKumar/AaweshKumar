@@ -16,7 +16,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="45%" valign="top" align="center">
-      <h3>Technology Stack 🦅</h3>
+      <h3>Tech Stack 🦅</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -34,7 +34,7 @@
       </p>
     </td>
     <td width="55%" valign="top" align="center">
-      <h3>Yearly Contributions 📈</h3>
+      <h3>Contributions 📈</h3>
       <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaweshKumar&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Aawesh's Contribution Graph" width="100%" />
       </p>
