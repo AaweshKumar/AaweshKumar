@@ -5,6 +5,14 @@
 ---
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data+Structures+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   I'm a passionate <b>B.Tech CSE Student</b> who's always willing to learn and work across new technologies and domains 💡. I love to explore modern tech tools and leverage them to solve real-life problems ✨. I'm currently focused on sharpening my <b>Web Development</b> skills and mastering <b>Data Structures and Algorithms</b> 🚀.
 </p>
 
