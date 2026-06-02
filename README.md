@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dddaa108-f1d4-4dd5-92fb-ba86438a7175" alt="Aawesh Kumar Banner" width="85%" />
+  <img src="https://github.com/user-attachments/assets/dddaa108-f1d4-4dd5-92fb-ba86438a7175" alt="Aawesh Kumar Banner" width="100%" />
 </p>
 
 ---
